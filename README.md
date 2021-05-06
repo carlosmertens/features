@@ -9,3 +9,5 @@ Collection of typescript files with basic concepts
 - Type annotation for arrays, classes, object literals and functions
 - Type inference
 - The "any" type
+- Annotations for functions with void and never
+- Destructuring with annotations
