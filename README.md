@@ -11,3 +11,4 @@ Collection of typescript files with basic concepts
 - The "any" type
 - Annotations for functions with void and never
 - Destructuring with annotations
+- Interfaces
